@@ -1,0 +1,12 @@
+Cap,    Geo,        tipoArsenal;
+
+8,      GPS8,       abbccdt
+6,      GPS6,       act    
+4,      GPS4,       acd    
+0,      GPS0,       ab     
+7,      GPS7,       aaabbct
+4,      GPS4,       acd    
+7,      GPS7,       aaabbct
+2,      GPS2,       ac     
+7,      GPS7,       aaabbct
+1,      GPS1,       bc     
